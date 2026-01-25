@@ -43,12 +43,3 @@ View live statistics of all signals in the GUI.
 
 ![Less Noise Signal](screenshots/less_noise.png)
 ![More noise Signal](screenshots/more_noise.png)
-
-
-# Applications
-
-Educational demonstrations of signal processing concepts.
-
-Analyzing noise impact in communication and instrumentation systems.
-
-Portfolio project demonstrating interactive visualization, signal analysis, and professional C++ skills.
