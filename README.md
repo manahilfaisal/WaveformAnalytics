@@ -41,10 +41,8 @@ View live statistics of all signals in the GUI.
 
 # Screenshots
 
-
-
-
-
+![Less Noise Signal](screenshots/less_noise.png)
+![More noise Signal](screenshots/more_noise.png)
 
 
 # Applications
