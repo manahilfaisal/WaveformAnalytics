@@ -39,7 +39,7 @@ Noisy signal (clean + noise)
 Normalized cross-correlation
 View live statistics of all signals in the GUI.
 
-# Screenshots
+# Results 
 
 ![Less Noise Signal](screenshots/less_noise.png)
 ![More noise Signal](screenshots/more_noise.png)
